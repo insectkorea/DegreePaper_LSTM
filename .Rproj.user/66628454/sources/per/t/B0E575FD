@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528351061151.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0E575FD",
+    "lastKnownWriteTime" : -4001448067047882641,
+    "last_content_update" : 1528351061151,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "45671481",
+        "caption" : "lag_train_tbl",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=lag_train_tbl&cache_key=45671481",
+        "displayedObservations" : 0,
+        "environment" : "",
+        "object" : "lag_train_tbl",
+        "preview" : 0,
+        "totalObservations" : 0,
+        "variables" : 4
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

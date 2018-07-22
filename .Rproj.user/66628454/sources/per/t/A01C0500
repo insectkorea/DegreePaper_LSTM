@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528349409258.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "84913223",
+    "id" : "A01C0500",
+    "lastKnownWriteTime" : 1528349097,
+    "last_content_update" : 1528349097,
+    "path" : "C:/Users/insec/Desktop/졸업논문/LSTM/LSTM.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

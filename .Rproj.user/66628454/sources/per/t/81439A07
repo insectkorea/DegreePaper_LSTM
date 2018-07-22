@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528253180790.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "81439A07",
+    "lastKnownWriteTime" : 23081145661849665,
+    "last_content_update" : 1528253180790,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "51ffc223b21e4d5591264394e1145dd6",
+        "name" : "seas_fcast",
+        "title" : "seas_fcast"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

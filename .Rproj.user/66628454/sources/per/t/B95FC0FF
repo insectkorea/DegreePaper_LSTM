@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530339253598.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B95FC0FF",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1530339253598,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "4dadd7b604bc4e12851e04ad2600052e",
+        "name" : "fcast",
+        "title" : "fcast"
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

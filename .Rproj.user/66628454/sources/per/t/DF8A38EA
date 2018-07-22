@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528250799299.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "431748908",
+    "id" : "DF8A38EA",
+    "lastKnownWriteTime" : 1530422764,
+    "last_content_update" : 1530422764505,
+    "path" : "C:/Users/insec/Desktop/졸업논문/ARIMA/bean.R",
+    "project_path" : "bean.R",
+    "properties" : {
+        "cursorPosition" : "228,30",
+        "scrollLine" : "185",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
